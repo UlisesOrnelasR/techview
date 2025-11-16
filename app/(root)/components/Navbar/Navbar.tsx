@@ -1,5 +1,6 @@
 import { Logo } from "@/components/shared";
 import { NavbarDesktop } from "./NavbarDesktop";
+import { NavbarMobile } from "./NavbarMobile";
 
 export function Navbar() {
   return (
@@ -10,6 +11,7 @@ export function Navbar() {
     >
       <Logo />
       <NavbarDesktop />
+      <NavbarMobile />
     </nav>
   );
 }

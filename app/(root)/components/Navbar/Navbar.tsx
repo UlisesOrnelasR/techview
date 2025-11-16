@@ -1,4 +1,5 @@
 import { Logo } from "@/components/shared";
+import { NavbarDesktop } from "./NavbarDesktop";
 
 export function Navbar() {
   return (
@@ -8,6 +9,7 @@ export function Navbar() {
   "
     >
       <Logo />
+      <NavbarDesktop />
     </nav>
   );
 }

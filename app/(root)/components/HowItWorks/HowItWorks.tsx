@@ -4,7 +4,7 @@ export function HowItWorks() {
   return (
     <section
       className="
-  py-24 bg-linear-to-b from-purple-700/10 to-purple-900
+  py-24 bg-linear-to-br from-purple-700/10 to-purple-900
   "
       id="how-it-works"
     >

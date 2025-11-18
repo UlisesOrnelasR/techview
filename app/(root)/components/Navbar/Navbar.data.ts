@@ -1,7 +1,7 @@
 export const links = [
   {
     name: "How it works",
-    href: "#how-it-wroks",
+    href: "#how-it-works",
   },
   {
     name: "Pricing",
